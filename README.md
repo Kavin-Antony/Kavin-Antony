@@ -1,13 +1,13 @@
 # Kavin Antony
 
 👨‍💻 A Software Developer from India!
-🌟 Currently working on deep learning and blockchain projects
+🌟 Currently working on deep learning and mobile app development.
 
-🔭 I’m currently working on FastAPI, Express.js, and Spring Boot
+🔭 I’m currently working on FastAPI, Resnet-18, React-Native
 
 🌱 I’m currently learning decentralized systems and WebSockets
 
-💬 Ask me about Python, C++, HTML, CSS, JavaScript, React.js, SQL, Web Development, Machine Learning, Blockchain 
+💬 Ask me about Python, C++, HTML, CSS, JavaScript, React.js, SQL, FastAPI, MongoDB, Node.js, Express.js
 
 📫 How to reach me: kavinantonyar@gmail.com
 
