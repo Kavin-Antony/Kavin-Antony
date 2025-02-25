@@ -17,13 +17,13 @@
 
 💎 Projects:
 
-      📌 **Decentralized Legal Consensus using Blockchain** - A blockchain-based system for legal document verification and consensus.
+   📌 **Decentralized Legal Consensus using Blockchain** - A blockchain-based system for legal document verification and consensus.
       
-      📌 **Employee Performance Dashboard** - A data visualization project using Power BI and Tableau for performance tracking.
+   📌 **Employee Performance Dashboard** - A data visualization project using Power BI and Tableau for performance tracking.
       
-      📌 **React Audio Player** - A simple single-page web audio player built using **React.js**. This project serves as a practice ground for learning React fundamentals.
+   📌 **React Audio Player** - A simple single-page web audio player built using **React.js**. This project serves as a practice ground for learning React fundamentals.
       
-      📌 **FM Ad Skipper (ADSIFT)** - A deep learning-based project for real-time FM advertisement detection and skipping. (Currently Engaged)
+   📌 **FM Ad Skipper (ADSIFT)** - A deep learning-based project for real-time FM advertisement detection and skipping. (Currently Engaged)
       
 
 
