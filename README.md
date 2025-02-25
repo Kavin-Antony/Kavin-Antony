@@ -17,9 +17,11 @@
 
 💎 Projects:
 
-   📌 **Decentralized Legal Consensus using Blockchain** - A blockchain-based system for legal document verification and consensus.
-      
    📌 **Employee Performance Dashboard** - A data visualization project using Power BI and Tableau for performance tracking.
+
+   📌 **Currency Converter with Real-Time Insights** - A web app for real-time currency conversion using the Frankfurter API, optimized for faster response times.
+
+   📌 **Decentralized Legal Consensus using Blockchain** - A blockchain-based system for legal document verification and consensus.
       
    📌 **React Audio Player** - A simple single-page web audio player built using **React.js**. This project serves as a practice ground for learning React fundamentals.
       
