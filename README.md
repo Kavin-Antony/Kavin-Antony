@@ -3,9 +3,9 @@
 👨‍💻 A Software Developer from India!
 🌟 Currently working on deep learning and mobile app development.
 
-🔭 I’m currently working on FastAPI, Resnet-18, React-Native
+🔭 I’m currently working on FastAPI, Resnet-18
 
-🌱 I’m currently learning decentralized systems and WebSockets
+🌱 I’m currently learning React-Native
 
 💬 Ask me about Python, C++, HTML, CSS, JavaScript, React.js, SQL, FastAPI, MongoDB, Node.js, Express.js
 
