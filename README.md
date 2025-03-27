@@ -13,7 +13,7 @@
 
 🏁 Portfolio & Resume:
 📌 [Here is My Portfolio](#)
-📌 [Here is My Resume](#)
+📌 [Here is My Resume](https://github.com/Kavin-Antony/Kavin-Antony/blob/main/KAVIN%20ANTONY%20A%20R.pdf)
 
 💎 Projects:
 
