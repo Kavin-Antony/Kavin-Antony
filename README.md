@@ -1,9 +1,9 @@
 # Kavin Antony A R
 
 👨‍💻 A Software Developer from India!
-🌟 Currently working on deep learning and mobile app development.
+🌟 Currently working on deep learning and web app development.
 
-🌱 I’m currently learning React-Native
+🌱 I’m currently learning React
 
 💬 Ask me about Python, C++, HTML, CSS, JavaScript, React.js, SQL, FastAPI, MongoDB, Node.js, Express.js
 
