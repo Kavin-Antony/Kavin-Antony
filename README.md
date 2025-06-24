@@ -27,7 +27,7 @@
 
    📌 **Library Management System** – A C++ console project to manage books and users, built to refresh core OOP concepts like classes, inheritance, and polymorphism.   
 
-   📌 Smart Pet Feeding System – An IoT-based project for automated food dispensing and water monitoring with real-time web control.
+   📌 **Smart Pet Feeding System** – An IoT-based project for automated food dispensing and water monitoring with real-time web control.
 
 **🚀 Programming Languages:**
 <br>
