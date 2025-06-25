@@ -3,7 +3,7 @@
 👨‍💻 A Software Developer from India!
 🌟 Currently working on web app development.
 
-🌱 I’m currently learning JWT
+🌱 I’m currently learning Express.js
 
 💬 Ask me about Python, C++, Java, HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express.js, SQL, FastAPI, Flask
 
