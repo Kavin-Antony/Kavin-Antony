@@ -15,19 +15,19 @@
 
 💎 Projects:
 
-   📌 **Employee Performance Dashboard** - A data visualization project using Power BI and Tableau for performance tracking.
+   📌 [**Employee Performance Dashboard**](https://github.com/Kavin-Antony/Employee-Performance-Dashboard-using-Tableau) - A data visualization project using Power BI and Tableau for performance tracking.
 
-   📌 **Currency Converter with Real-Time Insights** - A web app for real-time currency conversion using the Frankfurter API, optimized for faster response times.
+   📌 [**Currency Converter with Real-Time Insights**](https://github.com/Kavin-Antony/Currency_Converter) - A web app for real-time currency conversion using the Frankfurter API, optimized for faster response times.
 
-   📌 **Decentralized Legal Consensus using Blockchain** - A blockchain-based system for legal document verification and consensus.
+   📌 [**Decentralized Legal Consensus using Blockchain**](https://github.com/Kavin-Antony/Decentralized-Energy-Marketplace-A-Blockchain-Based-Peer-to-Peer-Trading-System) - A blockchain-based system for legal document verification and consensus.
       
-   📌 **React Audio Player** - A simple single-page web audio player built using **React.js**. This project serves as a practice ground for learning React fundamentals.
+   📌 [**React Audio Player**](https://github.com/Kavin-Antony/Music_Player_using_React) - A simple single-page web audio player built using **React.js**. This project serves as a practice ground for learning React fundamentals.
       
-   📌 **FM Ad Skipper (ADSIFT)** - A deep learning-based project for real-time FM advertisement detection and skipping.
+   📌 [**FM Ad Skipper (ADSIFT)**](https://github.com/Kavin-Antony/ADSIFT-Full-Stack-App-with-React-FastAPI-Resnet18) - A deep learning-based project for real-time FM advertisement detection and skipping.
 
-   📌 **Library Management System** – A C++ console project to manage books and users, built to refresh core OOP concepts like classes, inheritance, and polymorphism.   
+   📌 [**Library Management System**](https://github.com/Kavin-Antony/Library-Management-System---OOPS) – A C++ console project to manage books and users, built to refresh core OOP concepts like classes, inheritance, and polymorphism.   
 
-   📌 **Smart Pet Feeding System** – An IoT-based project for automated food dispensing and water monitoring with real-time web control.
+   📌 [**Smart Pet Feeding System**](https://github.com/Kavin-Antony/Smart-Pet-Feeding-and-Water-Monitoring-System) – An IoT-based project for automated food dispensing and water monitoring with real-time web control.
 
 **🚀 Programming Languages:**
 <br>
