@@ -3,9 +3,9 @@
 👨‍💻 A Software Developer from India!
 🌟 Currently working on web app development.
 
-🌱 I’m currently learning Phoenix.
+🌱 I’m currently learning Ash.
 
-💬 Ask me about Python, C++, Java, HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express.js, SQL, FastAPI, Flask, Elixir
+💬 Ask me about Python, C++, Java, HTML, CSS, JavaScript, React.js, MongoDB, Node.js, Express.js, SQL, FastAPI, Flask, Elixir, Phoenix
 
 📫 How to reach me: kavinantonyar@gmail.com
 
